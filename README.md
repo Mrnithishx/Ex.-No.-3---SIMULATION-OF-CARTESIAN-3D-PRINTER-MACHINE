@@ -60,8 +60,8 @@
 ![Screenshot 2025-04-24 152754](https://github.com/user-attachments/assets/233900e5-95e9-44ac-943e-f6cf0b00e642)
 
 
-### Name: T. Gayathri
-### Register Number:212223100007
+### Name:Nithish DM
+### Register Number:212224135001
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
